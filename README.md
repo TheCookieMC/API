@@ -1,1 +1,2 @@
-# API
+# TheCookieMC API
+
